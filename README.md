@@ -10,7 +10,7 @@ To surpass competitors and enable data-driven decision-making, the company has d
 
 I worked on this project by following the Codebasics PowerBi Course, 
 
-Here is my report link - https://www.novypro.com/project/atliq-hardware-business-insights-360-25
+Here is my report link - https://app.powerbi.com/view?r=eyJrIjoiMzUwMTU5ZDctODRhNi00ZjA1LWEzYWItOWMwMGFkNTFiZjg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 
 Here is my presentation link - https://www.linkedin.com/posts/akash-singh-dataanalyst_datafam-connections-dataanalytics-activity-7185268759052353536-j3zq?utm_source=share&utm_medium=member_desktop
